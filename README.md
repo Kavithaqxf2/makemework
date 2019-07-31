@@ -44,5 +44,5 @@ Here are some useful debugging tips that do not involve the use of debugger:
 # Notes:
 1. Use Python3
 2. We recommend using Visual Studio code as your IDE
-3. We recomment using a virtualenv
+3. We recommend using a virtualenv
 4. You need to have Chrome driver installed
